@@ -28,5 +28,6 @@
 
 **git checkout master** - вернуться к актуальному состоянию и продолжить работу *(git checkout main)*
 
-[ссылка на Git для новичков](https://habr.com/ru/articles/541258/)
+[Ссылка на Git для новичков часть 1](https://habr.com/ru/articles/541258/)
 
+[Ссылка на Git для новичков часть 2](https://habr.com/ru/articles/542616/)
