@@ -40,6 +40,8 @@ __git branch__ - просмотр всех веток
 
 **git checkout _branch_name_** - переход к выбранной ветке
 
+**git checkout -b _branch_name_** - создание и переход в новую ветку 
+
 **git merge _branch_name_** - слияние веток
 
 **.gitignore** - создание файла для игнорирования не нужных файлов
