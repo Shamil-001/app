@@ -43,6 +43,7 @@ __git branch__ - просмотр всех веток
 **git branch -d _branch_name_** - удалить ветку
 
 **git branch -D _branch_name_** - удалить не слитую ветку
+**git checkout -b _branch_name_** - создание и переход в новую ветку 
 
 **git merge _branch_name_** - слияние веток
 
