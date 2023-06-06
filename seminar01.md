@@ -40,6 +40,10 @@ __git branch__ - просмотр всех веток
 
 **git checkout _branch_name_** - переход к выбранной ветке
 
+**git branch -d _branch_name_** - удалить ветку
+
+**git branch -D _branch_name_** - удалить не слитую ветку
+
 **git merge _branch_name_** - слияние веток
 
 **.gitignore** - создание файла для игнорирования не нужных файлов
